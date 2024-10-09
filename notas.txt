@@ -1,0 +1,6 @@
+TFG
+------------------------------------------------------------------------------------------------
+Label Studio
++ user: dalila.castelnovo@fiuni.edu.py
++ contraseña: 12345689
++ Link: http://localhost:8080/user/signup/?token=0jUghxtIFCfBsXVMdQ9paN9dMBda6NX32yCxiq11

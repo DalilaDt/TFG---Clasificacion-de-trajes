@@ -2,5 +2,24 @@ TFG
 ------------------------------------------------------------------------------------------------
 Label Studio
 + user: dalila.castelnovo@fiuni.edu.py
-+ contraseña: 12345689
++ contraseña: 1234568
 + Link: http://localhost:8080/user/signup/?token=0jUghxtIFCfBsXVMdQ9paN9dMBda6NX32yCxiq11
+
+------------------------------------------------------------------------------------------------
+FOTOS
+
+Sin las fotos sin clasificar tenemos 4453 fotos
+
+Fantasia: 664 (aca si hay fotos de sin clasificar)
+
+Kygua: 1496 
+ + FP: 1425
+ + FE: 73
+
+Popular: 1214
+ + FP: 1140
+ + FE: 74
+
+Inspiracion: 1079
+ + FP:654
+ + FE:425 

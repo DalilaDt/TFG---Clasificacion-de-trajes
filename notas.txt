@@ -5,6 +5,8 @@ Label Studio
 + contraseña: 1234568
 + Link: http://localhost:8080/user/signup/?token=0jUghxtIFCfBsXVMdQ9paN9dMBda6NX32yCxiq11
 
+
+
 ------------------------------------------------------------------------------------------------
 FOTOS
 

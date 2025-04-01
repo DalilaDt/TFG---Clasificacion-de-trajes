@@ -2,7 +2,7 @@ task: classify
 mode: train
 model: yolov8n-cls.pt
 data: C:\\Users\\dalil\\Desktop\\Tesis_2025\\Tutorial_yolo_\\Tutorial_yolo\\dataset
-epochs: 20
+epochs: 30
 time: null
 patience: 100
 batch: 16
@@ -47,7 +47,7 @@ source: null
 vid_stride: 1
 stream_buffer: false
 visualize: false
-augment: false
+augment: true
 agnostic_nms: false
 classes: null
 retina_masks: false
